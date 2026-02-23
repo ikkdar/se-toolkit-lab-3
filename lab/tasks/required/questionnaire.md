@@ -24,6 +24,11 @@ Fill in each answer below. Replace `___` with the correct value.
 ### PUT /items/{item_id}
 
 1. HTTP method: PUT
+2. Status code (created successfully): 200
+
+### PUT /items/{item_id}
+
+1. HTTP method: POST
 2. Status code (updated successfully): 200
 
 ## Authentication
